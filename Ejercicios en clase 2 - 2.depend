@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1562628568 source:c:\users\hp\documents\ejercicios en clase 2 - 2\monticulo.c
+	<stdlib.h>
+	<math.h>
+	"Monticulo.h"
+
+1562628593 c:\users\hp\documents\ejercicios en clase 2 - 2\monticulo.h
+	<stdlib.h>
+
+1562628531 source:c:\users\hp\documents\ejercicios en clase 2 - 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Monticulo.h"
+
