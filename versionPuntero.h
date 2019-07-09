@@ -1,0 +1,2 @@
+void mainPuntero(int , int );
+

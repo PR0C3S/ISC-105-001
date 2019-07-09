@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1558443095 source:c:\users\hp\documents\ejercicios en clase 1 - 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"versionPuntero.h"
+	"versionMatriz.h"
+
+1558443095 c:\users\hp\documents\ejercicios en clase 1 - 2\versionpuntero.h
+
+1558443095 c:\users\hp\documents\ejercicios en clase 1 - 2\versionmatriz.h
+
+1558443095 source:c:\users\hp\documents\ejercicios en clase 1 - 2\versionmatriz.c
+	<stdio.h>
+	<stdlib.h>
+
+1558443095 source:c:\users\hp\documents\ejercicios en clase 1 - 2\versionpuntero.c
+	<stdio.h>
+	<stdlib.h>
+
