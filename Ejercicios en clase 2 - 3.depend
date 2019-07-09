@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1562629524 source:c:\users\hp\documents\ejercicios en clase 2 - 3\colas.c
+	<stdlib.h>
+	"Colas.h"
+
+1562629524 c:\users\hp\documents\ejercicios en clase 2 - 3\colas.h
+	<stdlib.h>
+
+1559656257 source:c:\users\hp\documents\ejercicios en clase 2 - 3\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<windows.h>
+	<string.h>
+	"conio.h"
+
+1562629670 c:\users\hp\documents\ejercicios en clase 2 - 3\conio.h
+	<stdio.h>
+
+1562629524 source:c:\users\hp\documents\ejercicios en clase 2 - 3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Colas.h"
+	"conio.c"
+
+1562629670 c:\users\hp\documents\ejercicios en clase 2 - 3\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<windows.h>
+	<string.h>
+	"conio.h"
+
