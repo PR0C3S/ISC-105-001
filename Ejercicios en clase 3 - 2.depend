@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1559656257 source:c:\users\hp\documents\ejercicios en clase 3 - 2\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<windows.h>
+	<string.h>
+	"conio.h"
+
+1286690424 c:\users\hp\documents\ejercicios en clase 3 - 2\conio.h
+	<stdio.h>
+
+1560780779 source:c:\users\hp\documents\ejercicios en clase 3 - 2\nodo- cola.c
+	<stdio.h>
+	<stdlib.h>
+	"conio.h"
+
