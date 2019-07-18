@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1563457274 source:c:\users\hp\desktop\desktop\clase 6 - busqueda y ordenacion\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
